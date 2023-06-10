@@ -1,5 +1,6 @@
 # Student Performance Prediction
 
+![image](https://github.com/g3rley/student-performance-prediction/assets/96620547/44504eef-8d8e-4bf7-9209-54ae4ddcdec6)
 ## Overview
 
 This project focuses on predicting the performance of high school students in mathematics based on various factors, such as demographic information and educational background. The dataset used in this project contains information collected from three high schools in the United States.
