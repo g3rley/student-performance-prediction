@@ -1,7 +1,7 @@
 # Student Performance Prediction
 
 ![image](https://github.com/g3rley/student-performance-prediction/assets/96620547/44504eef-8d8e-4bf7-9209-54ae4ddcdec6)
-## Overview
+## 📝 Overview
 
 This project focuses on predicting the performance of high school students in mathematics based on various factors, such as demographic information and educational background. The dataset used in this project contains information collected from three high schools in the United States.
 
@@ -20,7 +20,7 @@ The motivation behind this project is to explore the relationship between variou
 - [scikit-learn](https://scikit-learn.org/stable/install.html)
 
 
-## Dataset
+## 📚 Dataset
 
 The dataset used in this project is named `exams.csv` and is located in the `data/` directory. It contains the following columns:
 
@@ -33,7 +33,7 @@ The dataset used in this project is named `exams.csv` and is located in the `dat
 - `Reading score`: The student's score on a standardized reading test
 - `Writing score`: The student's score on a standardized writing test
 
-## Project Structure
+## 📁 Project Structure
 
 The project follows the following directory structure:
 
@@ -49,7 +49,7 @@ student-performance-prediction/
 └── requirements.txt
 ```
 
-## Usage
+## 💻 Usage
 
 1. Start by cloning the repository:
 
@@ -83,7 +83,7 @@ jupyter notebook
 
 Contributions to this project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 ```
